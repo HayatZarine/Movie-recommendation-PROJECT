@@ -1,5 +1,5 @@
 # Movie-recommendation-PROJECT
-This project is a movie recommendation system built using Jupyter Lab. It utilizes various data analysis and machine learning techniques to recommend movies based on user preferences.
+This project is a movie recommendation system built using Jupyter Lab. It utilizes various data analysis and machine learning techniques to recommend movies based on user preferences. And this project is still in progress. 
 
 ## Features
 1.Data Analysis: Analyze movie data using pandas.
