@@ -6,7 +6,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 movies = pd.read_csv('movies.csv')  # Example dataset with columns: 'title', 'genres'
 
 # Preprocessing
-movies['genres'] = movies['genres'].fillna('')  # Fill NaNs with empty strings
+movies['genres'] = movies['genres'].fillna('')  # Fill NaNs with empty strings *** error occured 
 
 # TF-IDF Vectorization
 tfidf = TfidfVectorizer(stop_words='english')
